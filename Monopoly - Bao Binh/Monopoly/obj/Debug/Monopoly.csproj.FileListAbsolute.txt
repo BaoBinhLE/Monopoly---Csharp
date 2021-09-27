@@ -1,0 +1,126 @@
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly\Monopoly\obj\Debug\Monopoly.csprojAssemblyReference.cache
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly\Monopoly\obj\Debug\Monopoly.Form1.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.cache
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly\Monopoly\obj\Debug\Monopoly.Form2.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly\Monopoly\obj\Debug\Monopoly.formInfoGare.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly\Monopoly\obj\Debug\Monopoly.formInfoCompagnie.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly\Monopoly\obj\Debug\Monopoly.formInfoTerrain.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly\Monopoly\obj\Debug\Monopoly.formPortefeuille.resources
+C:\Users\Géraldine\Desktop\vers2-20210913T194535Z-001\vers2\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.AssemblyReference.cache
+C:\Users\Géraldine\Desktop\vers2-20210913T194535Z-001\vers2\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\Géraldine\Desktop\vers2-20210913T194535Z-001\vers2\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\Géraldine\Desktop\vers2-20210913T194535Z-001\vers2\Monopoly\Monopoly\obj\Debug\Monopoly.Form3.resources
+C:\Users\Géraldine\Desktop\vers2-20210913T194535Z-001\vers2\Monopoly\Monopoly\obj\Debug\Monopoly.Form4.resources
+C:\Users\Géraldine\Desktop\vers2-20210913T194535Z-001\vers2\Monopoly\Monopoly\obj\Debug\Monopoly.Form5.resources
+C:\Users\Géraldine\Desktop\vers2-20210913T194535Z-001\vers2\Monopoly\Monopoly\obj\Debug\Monopoly.formInfoCompagnie.resources
+C:\Users\Géraldine\Desktop\vers2-20210913T194535Z-001\vers2\Monopoly\Monopoly\obj\Debug\Monopoly.formInfoGare.resources
+C:\Users\Géraldine\Desktop\vers2-20210913T194535Z-001\vers2\Monopoly\Monopoly\obj\Debug\Monopoly.Form1.resources
+C:\Users\Géraldine\Desktop\vers2-20210913T194535Z-001\vers2\Monopoly\Monopoly\obj\Debug\Monopoly.Form2.resources
+C:\Users\Géraldine\Desktop\vers2-20210913T194535Z-001\vers2\Monopoly\Monopoly\obj\Debug\Monopoly.formInfoTerrain.resources
+C:\Users\Géraldine\Desktop\vers2-20210913T194535Z-001\vers2\Monopoly\Monopoly\obj\Debug\Monopoly.formPortefeuille.resources
+C:\Users\Géraldine\Desktop\vers2-20210913T194535Z-001\vers2\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\Géraldine\Desktop\vers2-20210913T194535Z-001\vers2\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.cache
+C:\Users\Géraldine\Desktop\vers2-20210913T194535Z-001\vers2\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\Géraldine\Desktop\vers2-20210913T194535Z-001\vers2\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\Géraldine\Desktop\vers2-20210913T194535Z-001\vers2\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\Géraldine\Desktop\vers2-20210913T194535Z-001\vers2\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V2\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V2\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V2\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V2\Monopoly\Monopoly\obj\Debug\Monopoly.csprojAssemblyReference.cache
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V2\Monopoly\Monopoly\obj\Debug\Monopoly.Form2.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V2\Monopoly\Monopoly\obj\Debug\Monopoly.Form3.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V2\Monopoly\Monopoly\obj\Debug\Monopoly.Form4.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V2\Monopoly\Monopoly\obj\Debug\Monopoly.Form5.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V2\Monopoly\Monopoly\obj\Debug\Monopoly.formInfoCompagnie.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V2\Monopoly\Monopoly\obj\Debug\Monopoly.formInfoGare.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V2\Monopoly\Monopoly\obj\Debug\Monopoly.Form1.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V2\Monopoly\Monopoly\obj\Debug\Monopoly.formInfoTerrain.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V2\Monopoly\Monopoly\obj\Debug\Monopoly.formPortefeuille.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V2\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V2\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.cache
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V2\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V2\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V2\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V2\Monopoly\Monopoly\obj\Debug\Monopoly.dlgAcheteEnchere.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V2\Monopoly\Monopoly\obj\Debug\Monopoly.dlgEnchere.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V2\Monopoly\Monopoly\obj\Debug\Monopoly.dlgMessage.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V3\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V3\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V3\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V3\Monopoly\Monopoly\obj\Debug\Monopoly.csprojAssemblyReference.cache
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V3\Monopoly\Monopoly\obj\Debug\Monopoly.dlgAcheteEnchere.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V3\Monopoly\Monopoly\obj\Debug\Monopoly.dlgEnchere.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V3\Monopoly\Monopoly\obj\Debug\Monopoly.dlgMessage.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V3\Monopoly\Monopoly\obj\Debug\Monopoly.Form2.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V3\Monopoly\Monopoly\obj\Debug\Monopoly.Form3.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V3\Monopoly\Monopoly\obj\Debug\Monopoly.Form4.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V3\Monopoly\Monopoly\obj\Debug\Monopoly.Form5.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V3\Monopoly\Monopoly\obj\Debug\Monopoly.formInfoCompagnie.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V3\Monopoly\Monopoly\obj\Debug\Monopoly.formInfoGare.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V3\Monopoly\Monopoly\obj\Debug\Monopoly.Form1.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V3\Monopoly\Monopoly\obj\Debug\Monopoly.formInfoTerrain.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V3\Monopoly\Monopoly\obj\Debug\Monopoly.formPortefeuille.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V3\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V3\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.cache
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V3\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V3\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V3\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\obj\Debug\Monopoly.csprojAssemblyReference.cache
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\obj\Debug\Monopoly.dlgAcheteEnchere.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\obj\Debug\Monopoly.dlgEnchere.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\obj\Debug\Monopoly.dlgMessage.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\obj\Debug\Monopoly.Form2.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\obj\Debug\Monopoly.Form3.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\obj\Debug\Monopoly.Form4.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\obj\Debug\Monopoly.Form5.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\obj\Debug\Monopoly.formInfoCompagnie.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\obj\Debug\Monopoly.formInfoGare.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\obj\Debug\Monopoly.Form1.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\obj\Debug\Monopoly.formInfoTerrain.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\obj\Debug\Monopoly.formPortefeuille.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.cache
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\obj\Debug\Monopoly.dlgPrison.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\obj\Debug\Monopoly.formFinirPartie.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\obj\Debug\Monopoly.formEchange.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly\Monopoly\obj\Debug\Monopoly.reglesMono.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\obj\Debug\Monopoly.csprojAssemblyReference.cache
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\obj\Debug\Monopoly.dlgAcheteEnchere.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\obj\Debug\Monopoly.dlgEnchere.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\obj\Debug\Monopoly.dlgMessage.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\obj\Debug\Monopoly.dlgPrison.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\obj\Debug\Monopoly.Form2.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\obj\Debug\Monopoly.Form3.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\obj\Debug\Monopoly.Form4.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\obj\Debug\Monopoly.Form5.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\obj\Debug\Monopoly.formEchange.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\obj\Debug\Monopoly.formFinirPartie.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\obj\Debug\Monopoly.formInfoCompagnie.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\obj\Debug\Monopoly.formInfoGare.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\obj\Debug\Monopoly.Form1.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\obj\Debug\Monopoly.formInfoTerrain.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\obj\Debug\Monopoly.formPortefeuille.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\obj\Debug\Monopoly.reglesMono.resources
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.cache
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\Bao binh\Documents\M2 PISE sem2\PROJET\C#\Monopoly V4\Monopoly - Bao Binh - Nhan\Monopoly\obj\Debug\Monopoly.dlgLeverHypotheque.resources
